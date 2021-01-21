@@ -1,0 +1,1 @@
+package com.learn.effective_java.equals_hashcode.transitive;
